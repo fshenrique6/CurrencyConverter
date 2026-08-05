@@ -27,7 +27,7 @@ Foi construído com foco em praticar o consumo de APIs externas em Go: fazer req
 ### Instalação
 
 ```bash
-git clone https://github.com/fshenrique6/currency-converter.git
+git clone https://github.com/fshenrique6/CurrencyConverter.git
 cd currency-converter
 go build -o converter
 ```
@@ -118,7 +118,7 @@ It was built to practice consuming external APIs in Go: making HTTP requests as 
 ### Installation
 
 ```bash
-git clone https://github.com/fshenrique6/currency-converter.git
+git clone https://github.com/fshenrique6/CurrencyConverter.git
 cd currency-converter
 go build -o converter
 ```
